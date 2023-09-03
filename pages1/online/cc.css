@@ -1,0 +1,7 @@
+@media (min-width:900px) {
+    .qqqq{display: flex; width:500px;}
+    .wwww{
+        display: flex;width:800px;
+    }
+    .oooo{display: flex;width:500px;}
+}
